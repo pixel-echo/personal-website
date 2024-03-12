@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tara Chakkithara",
+    "section": "",
+    "text": "My name is Tara Chakkithara and I am a Machine Learning Engineer in training who lives in Toronto. Please feel free to contact me for inquiries at tara.chakkithara@mail.utoronto.ca.\n\n\n\nList your projects and provide links to them.\n\n\n\n• Created a neural network from scratch to predict heart disease using\nheart disease risk factors.\n\n\n\n• Created a neural network with PyTorch to generate classical music based on the styles of Bach, Chopin, Brahms, etc. Used MIDI music files as training data.\n\n\n\n• Used multiple linear regression to create an algorithm to predict air temperature using nearby soil temperature and water temperature samples. • TOOLS : Scikit-Learn\n\n\n\n• Implemented an HR system with a team using git. • Designed a database and CRUD API to enable efficient data querying for all my team members. • TOOLS : Java, SQlite\n\n\n\n• Worked in a team environment with git to create a one on one scheduler. • Used React for the front end and Django for the backend.\n\n\n\n• Worked in a team environment with git to replicate the paper : “Energy saving may kill: Evidence from the Fukushima nuclear accident” (Guojun He, Takanao Tanaka). • Cleaned and preprocessed data using tidyverse (R). • Created data visualizations using ggplot2 (R).\n\n\n\nServices and Experiences Assistant (Aug 2023 - Oct 2023) HOEM on Jarvis • Managed the front desk at a student residence. • Effectively communicated with a wide range of clients, visitors, and colleagues in a professional manner. • Problem solved tough situations in a team and individual environment. • Deescalated emotionally charged situations by actively listening to student or parent concerns. • Managed my time efficiently as my job required a lot of multitasking"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Tara Chakkithara",
+    "section": "",
+    "text": "My name is Tara Chakkithara and I am a Machine Learning Engineer in training who lives in Toronto. Please feel free to contact me for inquiries at tara.chakkithara@mail.utoronto.ca."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Tara Chakkithara",
+    "section": "",
+    "text": "List your projects and provide links to them."
+  },
+  {
+    "objectID": "index.html#heart-disease-prediction-algorithm",
+    "href": "index.html#heart-disease-prediction-algorithm",
+    "title": "Tara Chakkithara",
+    "section": "",
+    "text": "• Created a neural network from scratch to predict heart disease using\nheart disease risk factors."
+  },
+  {
+    "objectID": "index.html#classical-music-generator",
+    "href": "index.html#classical-music-generator",
+    "title": "Tara Chakkithara",
+    "section": "",
+    "text": "• Created a neural network with PyTorch to generate classical music based on the styles of Bach, Chopin, Brahms, etc. Used MIDI music files as training data."
+  },
+  {
+    "objectID": "index.html#air-temperature-prediction",
+    "href": "index.html#air-temperature-prediction",
+    "title": "Tara Chakkithara",
+    "section": "",
+    "text": "• Used multiple linear regression to create an algorithm to predict air temperature using nearby soil temperature and water temperature samples. • TOOLS : Scikit-Learn"
+  },
+  {
+    "objectID": "index.html#hr-system-java-hr-ms",
+    "href": "index.html#hr-system-java-hr-ms",
+    "title": "Tara Chakkithara",
+    "section": "",
+    "text": "• Implemented an HR system with a team using git. • Designed a database and CRUD API to enable efficient data querying for all my team members. • TOOLS : Java, SQlite"
+  },
+  {
+    "objectID": "index.html#meeting-scheduler",
+    "href": "index.html#meeting-scheduler",
+    "title": "Tara Chakkithara",
+    "section": "",
+    "text": "• Worked in a team environment with git to create a one on one scheduler. • Used React for the front end and Django for the backend."
+  },
+  {
+    "objectID": "index.html#paper-replication-energy-policy",
+    "href": "index.html#paper-replication-energy-policy",
+    "title": "Tara Chakkithara",
+    "section": "",
+    "text": "• Worked in a team environment with git to replicate the paper : “Energy saving may kill: Evidence from the Fukushima nuclear accident” (Guojun He, Takanao Tanaka). • Cleaned and preprocessed data using tidyverse (R). • Created data visualizations using ggplot2 (R)."
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "Tara Chakkithara",
+    "section": "",
+    "text": "Services and Experiences Assistant (Aug 2023 - Oct 2023) HOEM on Jarvis • Managed the front desk at a student residence. • Effectively communicated with a wide range of clients, visitors, and colleagues in a professional manner. • Problem solved tough situations in a team and individual environment. • Deescalated emotionally charged situations by actively listening to student or parent concerns. • Managed my time efficiently as my job required a lot of multitasking"
+  }
+]

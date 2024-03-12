@@ -1,0 +1,56 @@
+# Tara Chakkithara
+
+## Bio
+
+My name is Tara Chakkithara and I am a Machine Learning Engineer in training who lives in Toronto. 
+Please feel free to contact me for inquiries at [tara.chakkithara@mail.utoronto.ca](mailto:tara.chakkithara@mail.utoronto.ca).
+
+## Projects
+
+List your projects and provide links to them.
+
+## Heart Disease Prediction Algorithm :
+• Created a neural network from scratch to predict heart disease using  
+heart disease risk factors.
+
+## Classical Music Generator :
+• Created a neural network with PyTorch to generate classical music
+based on the styles of Bach, Chopin, Brahms, etc. Used MIDI
+music files as training data.
+
+## Air Temperature Prediction :
+• Used multiple linear regression to create an algorithm to predict air
+temperature using nearby soil temperature and water temperature
+samples.
+• TOOLS : Scikit-Learn
+
+## HR System : java-hr-ms
+• Implemented an HR system with a team using git.
+• Designed a database and CRUD API to enable efficient data
+querying for all my team members.
+• TOOLS : Java, SQlite
+
+## Meeting Scheduler
+• Worked in a team environment with git to create a
+one on one scheduler.
+• Used React for the front end and Django for the
+backend.
+
+## Paper Replication : energy-policy
+• Worked in a team environment with git to replicate the paper :
+“Energy saving may kill: Evidence from the Fukushima nuclear
+accident” (Guojun He, Takanao Tanaka).
+• Cleaned and preprocessed data using tidyverse (R).
+• Created data visualizations using ggplot2 (R).
+
+## WORK EXPERIENCE
+
+Services and Experiences Assistant (Aug 2023 - Oct 2023)
+HOEM on Jarvis
+• Managed the front desk at a student residence.
+• Effectively communicated with a wide range of clients, visitors, and
+colleagues in a professional manner.
+• Problem solved tough situations in a team and individual environment.
+• Deescalated emotionally charged situations by actively listening to
+student or parent concerns.
+• Managed my time efficiently as my job required a lot of multitasking
